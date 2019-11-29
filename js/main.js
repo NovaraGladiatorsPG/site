@@ -4,7 +4,7 @@ var article20191127 = "Novara Gladiators VS Empoli FC esports! Mercoledi 27 Nove
 
 // CREAZIONE ARTICOLI
 createArticle("NOVARA GLADIATORS - Empoli FC esports 2-5", "2019-11-29", article20191129, "Oliver Mayor");
-createArticle("NOVARA GLADIATORS - Empoli FC esports", "2019-11-27", article20191127, "Oliver Mayor");
+createArticle("NOVARA GLADIATORS - Empoli FC esports", "2019-11-27", article20191127, "Oliver Mayor (test)");
 
 // FUNZIONE DI CREAZIONE ARTICOLO
 function createArticle(title, date, articleText, articleAuthor) {
