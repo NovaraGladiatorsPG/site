@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+}
+
+#top-nav {
+    background-color: dodgerblue;
+}
+
+article {
+    margin: 10px;
+    padding: 10px;
+    background-color: lightskyblue;
+    text-align: justify;
+}
+
+.separator {
+    margin: 100px;
+}
+
+.article-title {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.article-time {
+    font-style: italic;
+    text-align: right;
+}
+
+.article-text {
+    text-align: justify;
+}
+
+.article-author {
+    font-style: italic;
+    text-align: right;
+}
