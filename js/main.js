@@ -1,8 +1,8 @@
 // CONTENUTO ARTICOLI
-var article20191129 = "Con l'inizio di dicembre (quasi) è finalemnte nato il nuovo sito web dei Novara Gladiators! Creato da Alfredo Aloi, portiere della squadra, sarà un punto di riferimento per i tifosi per rimanere aggiornati sulle sorti e le notizie della squadra!";
+var article20191129 = "Sconfitta pesante (2-5) per noi, contro l'Empoli FC esports! Per noi hanno segnato Oliver Mayor e Iacopo Mezzadri, entrambi i gol segnati passando noi in vantaggio. Secondo tempo disastroso per noi, a causa di un super Samuel Massessi che ha siglato una tripletta. Grazie a tutti per il supporto!!! #NovarAzzurra";
 
 // CREAZIONE ARTICOLI
-createArticle("Inaugurato il Sito Web dei Novara Gladiators", "2019-11-29", article20191129, "Alfredo Aloi");
+createArticle("NOVARA GLADIATORS - Empoli FC esports 2-5", "2019-11-29", article20191129, "Oliver Mayor");
 
 // FUNZIONE DI CREAZIONE ARTICOLO
 function createArticle(title, date, articleText, articleAuthor) {
