@@ -35,6 +35,8 @@ function addTeam(position, name, matches, points) {
         line.className = "table-warning table-row";
     } else if (position == 20 || position == 21 || position == 22) {
         line.className = "table-danger table-row";
+    } else {
+        line.className = "table-row";
     }
     table.appendChild(line);
     var pos = document.createElement("td");
